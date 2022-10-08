@@ -1,4 +1,5 @@
 # Getting Started - BKN Eureka Server
+This microservice is a Service Discovery. It's responsible to register services.
 
 ### Reference Documentation
 For further reference, please consider the following sections:
