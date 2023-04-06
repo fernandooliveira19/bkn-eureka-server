@@ -1,5 +1,8 @@
 # Getting Started - Eureka Server
 
+### Description
+Microservice that performs the role of service discovery, which together with other tools enables dynamic management and scalability for applications
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
