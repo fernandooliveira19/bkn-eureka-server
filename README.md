@@ -1,6 +1,9 @@
 # Getting Started - BKN Eureka Server
 This microservice is a Service Discovery. It's responsible to register services.
 
+### Description
+Microservice that performs the role of service discovery, which together with other tools enables dynamic management and scalability for applications
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
